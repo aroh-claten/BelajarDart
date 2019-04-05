@@ -1,0 +1,11 @@
+void main() {
+//deklarasi integer
+  int num1 = 10;
+  
+//deklarasi double
+  double num2 = 10.50;
+  
+  print(num1);  //print variabel num1
+  print(num2);  //print variabel num2
+  
+}

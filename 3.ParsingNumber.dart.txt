@@ -1,0 +1,4 @@
+void main() {
+print(num.parse('12')); // fungsi statis parse()memunginkan penguraian string yang berisi numerik literal menjadi angka
+print(num.parse('10.91'));
+}
